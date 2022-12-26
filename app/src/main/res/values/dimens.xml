@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="moduleTitleTextSize">18dp</dimen>
+    <dimen name="titleBarTextSize">18dp</dimen>
+    <dimen name="titleBarButtonTextSize">16dp</dimen>
+    <dimen name="titleBarButtonSecondTextSize">10dp</dimen>
+    <dimen name="titleBarHeight">44dp</dimen>
+    <dimen name="buttonPaddingSize">10dp</dimen>
+
+    <dimen name="bottomBarIconPadding">5dp</dimen>
+
+    <!-- slidingmneu -->
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="slidingmenu_width">250dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadowWidth">15dp</dimen>
+    <dimen name="slidingTextSize">18dp</dimen>
+
+    <!-- 字体 -->
+    <dimen name="extraSmallText">12dp</dimen>
+    <dimen name="smallText">14dp</dimen>
+    <dimen name="text">16dp</dimen>
+    <dimen name="largeText">18dp</dimen>
+    <dimen name="xlargeText">20dp</dimen>
+
+
+
+    <dimen name="pt_10">10pt</dimen>
+    <dimen name="pt_22">22pt</dimen>
+    <dimen name="pt_24">23pt</dimen>
+    <dimen name="pt_26">26pt</dimen>
+    <dimen name="pt_28">28pt</dimen>
+    <dimen name="pt_12">12pt</dimen>
+
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_11">10dp</dimen>
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_26">26dp</dimen>
+    <dimen name="dp_28">28dp</dimen>
+    <dimen name="dp_24">24dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_2">2dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_14">14dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_17">17dp</dimen>
+    <dimen name="dp_18">18dp</dimen>
+    <dimen name="dp_22">22dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_38">38dp</dimen>
+    <dimen name="dp_48">48dp</dimen>
+    <dimen name="dp_58">58dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_120">120dp</dimen>
+
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_13">13sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+    <dimen name="sp_22">22sp</dimen>
+    <dimen name="sp_24">24sp</dimen>
+    <dimen name="sp_26">26sp</dimen>
+    <dimen name="sp_28">28sp</dimen>
+    <!--base end-->
+
+    <dimen name="color_wheel_radius">124dp</dimen>
+    <dimen name="color_wheel_thickness">8dp</dimen>
+    <dimen name="color_center_halo_radius">60dp</dimen>
+    <dimen name="color_center_radius">54dp</dimen>
+    <dimen name="color_pointer_halo_radius">18dp</dimen>
+    <dimen name="color_pointer_radius">14dp</dimen>
+    <dimen name="color_layout_size">20dp</dimen>
+    <dimen name="setting_margin_size">10dp</dimen>
+
+    <dimen name="clue_item_time">16dp</dimen>
+    <dimen name="item_clue_text_size">18dp</dimen>
+
+    <!-- Standart dimens for the bars -->
+    <dimen name="bar_thickness">4dp</dimen>
+    <dimen name="bar_length">240dp</dimen>
+    <dimen name="bar_pointer_radius">6dp</dimen>
+    <dimen name="bar_pointer_halo_radius">14dp</dimen>
+
+
+    <!--listTable-->
+    <dimen name="listThTextSize">22dp</dimen>
+    <dimen name="listTdTextSize">20dp</dimen>
+
+    <!--listView-->
+    <dimen name="listItemHPadding">10dp</dimen>
+    <dimen name="listItemVPadding">5dp</dimen>
+    <dimen name="listItemLabelSize">20dp</dimen>
+
+
+    <!-- main menu-->
+    <dimen name="mainMenuTextSize">35dp</dimen>
+
+    <!--dictionary-->
+    <dimen name="TitleTextSize">20dp</dimen>
+    <dimen name="ListMarginSize">5dp</dimen>
+    <dimen name="ListViewItemMargin">10dp</dimen>
+    <dimen name="ListViewItemTextSize">20dp</dimen>
+    <dimen name="SearchTextSize">20dp</dimen>
+    <dimen name="MarginPaddingDistance">5dp</dimen>
+    <dimen name="ButtonTextSize">20dp</dimen>
+    <dimen name="MarginPaddingListViewItem">15px</dimen>
+
+    <dimen name="tipTextSize">13dp</dimen>
+
+    <!--tasklistdimens-->
+    <dimen name="LeftListMargin">4dp</dimen>
+    <dimen name="TaskListTextSize">20px</dimen>
+    <dimen name="ListTextSize">35px</dimen>
+
+    <!-- map menu-->
+    <dimen name="mapMenuTextSize">13dp</dimen>
+
+    <dimen name="dp_70">70dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="cp_default_padding">16dp</dimen>
+
+    <dimen name="cp_index_bar_width">36dp</dimen>
+    <dimen name="cp_index_bar_text_size">13sp</dimen>
+
+    <dimen name="cp_cancel_text_size">15sp</dimen>
+    <dimen name="cp_search_text_size">15sp</dimen>
+
+    <dimen name="cp_empty_icon_width">56dp</dimen>
+    <dimen name="cp_empty_icon_height">56dp</dimen>
+    <dimen name="cp_empty_text_size">14sp</dimen>
+
+    <dimen name="cp_section_height">32dp</dimen>
+    <dimen name="cp_section_text_size">15sp</dimen>
+
+    <dimen name="cp_list_item_height">50dp</dimen>
+    <dimen name="cp_list_item_text_size">15sp</dimen>
+
+    <dimen name="cp_grid_item_space">16dp</dimen>
+    <dimen name="cp_grid_item_padding">10dp</dimen>
+
+    <dimen name="cp_overlay_width">100dp</dimen>
+    <dimen name="cp_overlay_height">100dp</dimen>
+    <dimen name="cp_overlay_text_size">28sp</dimen>
+
+    <!--for focus view-->
+    <dimen name="radius_outer">50dp</dimen>
+    <dimen name="radius_inner">30dp</dimen>
+    <dimen name="stroke_width">2dp</dimen>
+
+    <dimen name="list_divider_height_negative">-1px</dimen>
+
+    <dimen name="bottomHeight">240dp</dimen>
+    <dimen name="bottomHeight2">220dp</dimen>
+    <dimen name="my_height">46dp</dimen>
+    <dimen name="dp_45">45dp</dimen>
+    <dimen name="dp_35">35dp</dimen>
+    <dimen name="dp_1">1dp</dimen>
+    <dimen name="dp_80">80dp</dimen>
+    <dimen name="dp_50">50dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="sp_10">10sp</dimen>
+    <dimen name="sp_70">70sp</dimen>
+    <dimen name="sp_60">60sp</dimen>
+    <dimen name="dp_150">150dp</dimen>
+    <dimen name="sp_15">15sp</dimen>
+    <dimen name="dp_300">300dp</dimen>
+    <dimen name="dp_340">340dp</dimen>
+    <dimen name="dp_105">105dp</dimen>
+    <dimen name="sp_21">21sp</dimen>
+    <dimen name="sp_11">11sp</dimen>
+    <dimen name="dp_200">200dp</dimen>
+    <dimen name="dp_76">76dp</dimen>
+    <dimen name="dp_98">98dp</dimen>
+    <dimen name="dp_9">9dp</dimen>
+    <dimen name="dp_7">7dp</dimen>
+    <dimen name="dp_67">67dp</dimen>
+    <dimen name="dp_115">115dp</dimen>
+    <dimen name="dp_250">250dp</dimen>
+    <dimen name="dp_245">245dp</dimen>
+    <dimen name="dp_43">43dp</dimen>
+    <dimen name="dp_32">32dp</dimen>
+    <dimen name="dp_39">39dp</dimen>
+    <dimen name="dp_123">123dp</dimen>
+    <dimen name="dp_180">180dp</dimen>
+    <dimen name="dp_130">130dp</dimen>
+    <dimen name="dp_62">62dp</dimen>
+    <dimen name="dp_140">140dp</dimen>
+    <dimen name="dp_25">25dp</dimen>
+    <dimen name="dp_36">36dp</dimen>
+
+</resources>

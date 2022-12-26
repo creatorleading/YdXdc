@@ -1,0 +1,49 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="XUITheme.Phone">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/transparent</item>
+        <item name="colorPrimary">@color/transparent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonStyle">@style/DefaultButton</item>
+        <item name="android:textColor">@color/textColor</item>
+        <!--自定义Dialog样式-->
+        <item name="alertDialogTheme">@style/AppTheme.Dialog</item>
+
+
+    </style>
+
+    <!--欢迎页-->
+    <style name="SplashTheme" parent="AppTheme">
+        <!-- 欢迎页背景引用刚才写好的 -->
+<!--        <item name="android:windowBackground">@drawable/splash_bg</item>-->
+<!--        <item name="android:windowNoTitle">true</item>-->
+<!--        <item name="android:windowFullscreen">true</item>-->
+        <!--<item name="android:windowIsTranslucent">true</item>-->   <!--透明背景-->
+    </style>
+
+
+    <style name="AppTheme.Dialog" parent="@style/Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">@color/textColor</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:background">@color/white</item>
+        <!-- Used for the level_background -->
+        <!--<item name="android:level_background">#4CAF50</item>-->
+    </style>
+
+    <style name="DefaultButton" parent="@style/Widget.AppCompat.Button">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/c_button_style</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:disabledAlpha">0.1</item>
+        <item name="android:minHeight">40dp</item>
+    </style>
+
+
+
+</resources>
